@@ -54,6 +54,10 @@ namespace HelloCS
             var result = authorName?.Length ?? 3;
 
             Console.WriteLine(result);
+            int numberOfApples = 12;
+            decimal pricePerApple = 0.35M;
+
+            Console.WriteLine(format: "")
 
 
 
