@@ -54,6 +54,7 @@ namespace HelloCS
             XmlDocument xml3 = new(); // целевой тип выражения new (версия C# 9)
 
            //проверка git pull
+           //проверка git push
 
         }
     }
