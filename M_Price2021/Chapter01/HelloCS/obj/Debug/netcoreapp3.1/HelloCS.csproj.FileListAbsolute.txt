@@ -1,0 +1,14 @@
+D:\Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.exe
+D:\Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.deps.json
+D:\Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.json
+D:\Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.runtimeconfig.dev.json
+D:\Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.dll
+D:\Code\Chapter01\HelloCS\bin\Debug\netcoreapp3.1\HelloCS.pdb
+D:\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csproj.AssemblyReference.cache
+D:\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfoInputs.cache
+D:\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.AssemblyInfo.cs
+D:\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.csproj.CoreCompileInputs.cache
+D:\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.dll
+D:\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.pdb
+D:\Code\Chapter01\HelloCS\obj\Debug\netcoreapp3.1\HelloCS.genruntimeconfig.cache

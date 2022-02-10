@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nlzEcSHRhm/g2mPo/BuTOZvL3n7oK4I3v/8uLHm2NXs/0DpSMmsy/e0ajrIeT9lFhlpbtTHKkK9AkQLKDLVi2Q==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Chapter02\\NullHandling\\ExploringConsole\\ExploringConsole.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Honda\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
