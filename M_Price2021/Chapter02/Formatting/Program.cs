@@ -20,6 +20,12 @@ namespace HelloCS
             Console.WriteLine(format: "{0,-8} {1,6:N0}", arg0: applesText, arg1: applesCount);
             Console.WriteLine(format: "{0,-8} {1,6:N0}", arg0: bananasText, arg1: bananasCount);
 
+            Console.Write("Type your first name and press ENTER: ");
+            string firstName = Console.ReadLine();
+            Console.Write("Type your age and press ENTER: ");
+            string age = Console.ReadLine();
+            Console.WriteLine($"Hello {firstName}, you look good for {age}.");
+
         }
     }   
 }
