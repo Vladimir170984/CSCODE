@@ -52,14 +52,17 @@ namespace HelloCS
 
             // результат равен 3, если authorName?.Length равен нулю, с помощью оператора объединения с null (??)
 
-            var result = authorName?.Length ?? 3;
+            var result = authorName?.Length ?? 99;
 
             Console.WriteLine(result);
             int numberOfApples = 12;
             decimal pricePerApple = 0.35M;
 
             Console.WriteLine(format: "{0} apples costs {1:C}", arg0: numberOfApples, arg1: pricePerApple * numberOfApples);
-            string formatted = string.Format(format: "{0} apples costs {1:C}", arg0: numberOfApples, arg1: pricePerApple * numberOfApples)i
+            string formatted = string.Format(format: "{0} apples costs {1:C}", arg0: numberOfApples, arg1: pricePerApple * numberOfApples);
+
+            
+        
         }
     }
 }
