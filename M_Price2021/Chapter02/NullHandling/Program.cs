@@ -59,8 +59,15 @@ namespace HelloCS
 
             Console.WriteLine(format: "{0} apples costs {1:C}", arg0: numberOfApples, arg1: pricePerApple * numberOfApples);
             string formatted = string.Format(format: "{0} apples costs {1:C}", arg0: numberOfApples, arg1: pricePerApple * numberOfApples);
+<<<<<<< HEAD
             //WriteToFile(formatted); // записывает строку в файл
             Console.WriteLine($"{numberOfApples} apples costs {pricePerApple * numberOfApples:C}");
+=======
+            //WriteToFile(formatted); //записывает строку в файл
+            Console.WriteLine($"{numberOfApples} apples costs {pricePerApple * numberOfApples:C}");
+
+
+>>>>>>> a4f0a39ab1a777ebd21074baff2e29dafbf06405
 
 
         }
