@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Chapter02\\Numbers\\Numbers.csproj": {}
+    "D:\\Code\\Repos\\CSCODE\\M_Price2021\\Chapter02\\Numbers\\Numbers.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Chapter02\\Numbers\\Numbers.csproj": {
+    "D:\\Code\\Repos\\CSCODE\\M_Price2021\\Chapter02\\Numbers\\Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Chapter02\\Numbers\\Numbers.csproj",
+        "projectUniqueName": "D:\\Code\\Repos\\CSCODE\\M_Price2021\\Chapter02\\Numbers\\Numbers.csproj",
         "projectName": "Numbers",
-        "projectPath": "D:\\Code\\Chapter02\\Numbers\\Numbers.csproj",
+        "projectPath": "D:\\Code\\Repos\\CSCODE\\M_Price2021\\Chapter02\\Numbers\\Numbers.csproj",
         "packagesPath": "C:\\Users\\Honda\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Chapter02\\Numbers\\obj\\",
+        "outputPath": "D:\\Code\\Repos\\CSCODE\\M_Price2021\\Chapter02\\Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

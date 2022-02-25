@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Chapter02\\Arrays\\Arrays.csproj": {}
+    "D:\\Code\\Repos\\CSCODE\\M_Price2021\\Chapter02\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Chapter02\\Arrays\\Arrays.csproj": {
+    "D:\\Code\\Repos\\CSCODE\\M_Price2021\\Chapter02\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Chapter02\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "D:\\Code\\Repos\\CSCODE\\M_Price2021\\Chapter02\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "D:\\Code\\Chapter02\\Arrays\\Arrays.csproj",
+        "projectPath": "D:\\Code\\Repos\\CSCODE\\M_Price2021\\Chapter02\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\Honda\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Chapter02\\Arrays\\obj\\",
+        "outputPath": "D:\\Code\\Repos\\CSCODE\\M_Price2021\\Chapter02\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
